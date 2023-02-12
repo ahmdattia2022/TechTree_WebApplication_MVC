@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.33130.400
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTreeMVCWebApplication", "TechTreeMVCWebApplication\TechTreeMVCWebApplication.csproj", "{CBD6F2F4-FF7C-4523-8055-D9EC34B5AE02}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTreeMVCWebApp", "TechTreeMVCWebApp\TechTreeMVCWebApp.csproj", "{677F2C2B-C571-451C-8525-CBADB7682276}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CBD6F2F4-FF7C-4523-8055-D9EC34B5AE02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CBD6F2F4-FF7C-4523-8055-D9EC34B5AE02}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CBD6F2F4-FF7C-4523-8055-D9EC34B5AE02}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CBD6F2F4-FF7C-4523-8055-D9EC34B5AE02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{677F2C2B-C571-451C-8525-CBADB7682276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{677F2C2B-C571-451C-8525-CBADB7682276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{677F2C2B-C571-451C-8525-CBADB7682276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{677F2C2B-C571-451C-8525-CBADB7682276}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
